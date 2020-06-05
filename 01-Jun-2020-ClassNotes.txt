@@ -1,0 +1,270 @@
+01-Jun-2020
+-----------
+
+In Project development we are going to use several tools to improve our productivity
+
+1) Build Tools
+---------------
+-> Create project folder structure
+
+-> Download required jars
+
+-> Keep Jars on Classpath
+
+-> Compile source code
+
+-> Execute Junits
+
+-> Package Project etc..
+
+-> Ant, Maven & Gradle we can use as Build tools
+
+2) Version Control Tools
+--------------------------
+-> Code Integration at one place
+
+-> Monitored access (Who, when, why and what)
+
+-> SVN, GIT HUB and BitBucket etc...
+
+3) Code Review Tools
+----------------------
+-> To identify problems in source code
+
+-> To Improve code quality
+
+-> To reduce bugs in code
+
+-> In project we will have both Manual code review & Automated Code review
+
+-> SonarQube is one of the famous tool for code review
+
+4) Unit Testing Tools
+----------------------
+-> The process of testing software components individually
+
+-> Unit testing helps to understand behaviour of our components
+
+-> As part of Unit testing we have to test postivie and negative scenarios of our methods
+
+-> As part of Unit testing we will use Mocking
+
+-> Junit we will use as Unit Testing framework for java applications
+
+-> Easy Mock, PowerMock, Mockito, Jmockito we can use these frameworks for mocking
+
+5) Code Coverage Tools
+----------------------
+-> The process of verifying how many lines of code is executed as part of Unit Testing
+
+-> Code Coverage Report Helps in improving Unit Test scenarios
+
+-> As per industry, we should maintain 85% code coverage
+
+-> Jacocco plugin we can use to measure code coverage
+
+6) Logging Tools
+-----------------
+-> The process of storing application run time behaviour is called Logging
+
+-> Logging is crucial part of every application
+
+-> Logging helps to understand application behaviour in run time
+
+-> Logging helps to understand exceptions occurred in project
+
+-> Log4J, Logback we can use to perform logging in java applications
+
+7) Log Monitoring Tools
+-----------------------
+-> Logs files will be geneated in server machine
+
+-> Our servers may not be in same location where we are working
+
+-> To see log messages of our appplication we need log monitoring tools
+
+-> Putty, WinScp and SPlunk for log monitoring
+
+8) Bug Reporting Tools
+-----------------------
+-> When tester identify a bug then it should be reported (tracking)
+
+-> To report bugs identified in project bug reporting tools will be used
+
+-> BugZilla and Jira we can use as Bug Reporting tools
+
+-> Jira is more than bug repoting tool
+
+-> JIRA can be called as Project Management Tool
+
+-> Agile Projects will be managed by JIRA tool only
+
+9) Performance Testing Tools
+----------------------------
+-> To identify application responsiveness, stability under serveral work loads we will do performance testing
+
+-> To implement Performance Testing we have to create Virtual Users
+
+-> We have Apache JMETER and HP Load Runner for performance Testing
+
+10) API Testing Tools
+---------------------
+-> To test SOAP webservices & RESTful services we will use tools
+
+-> SOAP UI is used to test SOAP Provider
+
+-> POSTMAN & Swagger are used to test REST api
+
+
+11) Memory Analyzer Tool (MAT)
+------------------------------
+-> Used to analyze JVM memory
+
+12) Reports
+-----------
+-> To Generate Excel reports we will use Apache POI api
+
+-> To generate PDF reports we will use iText api
+
+13) Message Broker Tools
+------------------------
+-> To share stream of  data among multiple applications we will use msg brokers
+
+-> Apache Kafka is one of the leading message broker in industry
+
+14) Distributed Cache Tools
+---------------------------
+-> Cache is used to store data for faster retrival
+
+-> Cache improves performance of the application
+
+-> To share cache data among serveral applications we will go Distributed cache
+
+-> Redis is one of the famous distributed cache
+
+
+15) Email & OTP
+---------------
+-> To send emails from java program we will use Java Mail API
+
+-> To send mobile msgs from java program we will use Twillo Api
+
+16) CI & CD
+------------
+-> CI & CD stands for Continuous integration and Continous deployment
+
+-> To automate application build and deployment process we will Jenkins
+
+-> Jenkins is one of the leading CI & CD tool in the market
+
+17) Containerization
+--------------------
+-> To deploy application into multiple envrionments we will use Containers
+
+-> Docker is the containerization platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,111 @@
+04-Jun-2020
+-----------
+-> We will create Account in GIT HUB (www.github.com)
+
+-> In our git hub account we can create multiple repositories
+
+-> For one project we will create one repository
+
+-> We choose repository as Public or Private
+
+-> Once Repository got created we will get Repository URL
+
+Ex :   https://github.com/Java-Project-03-9AM/01-Demo-App.git
+
+-> Git admin team will share repository url to all team members
+
+-> As a Team member we interact wiht GIT HUB repository to perform operations
+
+We can interact with GIT HUB repository in below ways
+-----------------------------------------------------
+1) Git client (https://git-scm.com/downloads)
+	
+	- GIT GUI
+	- GIT Bash
+
+2) Eclipse/ STS/ Intelli J
+
+3) Source Tree
+
+4) Tortoise GIT etc....
+
+
+
+
+
+
+
+
+
+What is GIT HUB ? - It is a cloud platform to host our projects
+
+What is GIT ? - It is a version control software
+
+What is GIT Client? - It is used to connect with GIT Repositories
+
+
+
+
+
+GIT Bash commands
+------------------
+init
+clone
+add
+status
+commit
+push
+pull
+checkout
+reset
+log
+rm
+branch
+merge
+rebase
+stash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
